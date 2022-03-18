@@ -5,5 +5,4 @@ This pack made by ssx_cod,Use Only,Can't sell(Because this pack use other pack's
 v3.1.1 HotFix
 
 [+]新增 [*]修复/重做 [-]移除
-
 [*]修复了篝火火焰显示错误的BUG
