@@ -1,8 +1,13 @@
-这个材质包是ssx_cod制作的，未经授权禁止转载，永久禁止商用(因为这个材质包使用了他人创作的内容)
+这个材质包是ssx_cod由独立制作的贴图和他人创作的内容制作的，未经授权禁止转载，禁止倒卖。
 
-This pack made by ssx_cod,Use Only,Can't sell(Because this pack use other pack's img)
+如果你是购买而来的，请联系ssx_cod(3593328274@qq.com或bilissxping@gmail.com)
 
-v3.1.1 HotFix
+This texture pack is made by ssx_cod from independently produced textures and content created by others. Unauthorized reprinting and selling are prohibited.
 
-[+]新增 [*]修复/重做 [-]移除
-[*]修复了篝火火焰显示错误的BUG
+If you purchased it, please contact ssx_cod(3593328274@qq.com or bilissxping@gmail.com)
+
+v3.1.1 紧急更新 HotFix
+
+[+]新增 [*]修复/重做 [-]移除    [+]Add [*]Fix/Remake [-]Remove
+
+[*]修复了篝火火焰显示错误的BUG  [*]Fix campfire display error
