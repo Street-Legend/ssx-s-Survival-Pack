@@ -2,9 +2,13 @@
 
 如果你是购买而来的，请联系Street Legend工作室(StreetLegend@outlook.com)或ssx_cod(3593328274@qq.com;bilissxping@gmail.com)
 
+如果你遇到无法解决的问题，请加入我们的Discord：https://discord.gg/rJNaAaeawe
+
 This texture pack is made by ssx_cod from independently produced textures and content created by others. Unauthorized reprinting and selling are prohibited.
 
 If you purchased it, please contact Street-Legend-Works(StreetLegend@outlook.com) or ssx_cod(3593328274@qq.com;bilissxping@gmail.com)
+
+If you have some problem,please join our Discord server：https://discord.gg/rJNaAaeawe
 
 v3.1.1 紧急更新 HotFix
 
