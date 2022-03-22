@@ -7,5 +7,7 @@ If you purchased it, please contact Street-Legend-Works(StreetLegend@outlook.com
 If you have some problem,please join our Discord server：https://discord.gg/rJNaAaeawe
 
 v3.1.1 日常修复 HotFix
+
 [+]新增 [.]修复/重做 [-]移除
+
 [.]修复了篝火火焰显示错误的BUG
