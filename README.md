@@ -6,7 +6,7 @@ This texture pack is made by ssx_cod from independently produced textures and co
 If you purchased it, please contact Street-Legend-Works(StreetLegend@outlook.com) or ssx_cod(3593328274@qq.com;bilissxping@gmail.com)
 If you have some problem,please join our Discord server：https://discord.gg/rJNaAaeawe
 
-v3.1.1 日常修复 HotFix
+v3.1.1 日常修复
 
 [+]新增 [.]修复/重做 [-]移除
 
