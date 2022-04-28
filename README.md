@@ -6,8 +6,11 @@ This texture pack is made by ssx_cod from independently produced textures and co
 If you purchased it, please contact Street-Legend-Works(StreetLegend2022@outlook.com) or ssx_cod(3593328274@qq.com;bilissxping@gmail.com)
 If you have some problem,please join our Discord server：https://discord.gg/rJNaAaeawe
 
-v3.1.1 日常修复
+v3.1.2 日常修复
 
 [+]新增 [.]修复/重做 [-]移除
 
-[.]修复了篝火火焰显示错误的BUG
+[-]移除了没用的贴图
+[*]修改了终末之诗中的无用内容
+[+]新的望远镜镜内贴图
+[*]修改了标题页面中的无用小标题
